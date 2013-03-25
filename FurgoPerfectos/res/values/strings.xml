@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">FurgoPerfectos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Furgo Perfectos</string>
+    <string name="button_map">Ver Mapa</string>
+    <string name="select_app">Selecciona aplicación</string>
+    <string name="error_selecting_file">Se ha producido un error al seleccionar el fichero</string>
+    <string name="loading_fps">Cargando Furgoperfectos &#8230;</string>
+    <string name="error_supported_data">Formato de fichero no soportado</string>
+    <string name="processing">Procesando &#8230;</string>
+    <string name="load_file">Cargar KML</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">0TVz3xy9cpvhlm8ODSueoKQecW9Fdb9Bs4pWD-w</string>
+    <!-- PC Igor:  0TVz3xy9cpvhlm8ODSueoKQecW9Fdb9Bs4pWD-w -->
+    <string name="refresh">Actualizar</string>
+    <string name="title_furgoperfecto_detail">FurgoPerfecto Detail</string>
+    <string name="title_furgoperfecto_list">FurgoPerfectos</string>
+    <string name="list">Listado</string>
+    <string name="title_section2">Areas AC</string>
+    <string name="title_section1">FurgoPerfectos</string>
+    <string name="title_activity_fplist">FPListActivity</string>
+    <string name="load_FP">Cargar FurgoPerfectos</string>
+    <string name="load_AC">Cargar Áreas AC</string>
+    <string name="text_info_start">Esta aplicación ha sido desarrollada por el usuario Txetxuan del foro FrugoVW. En esta versión se cargan todos los FurgoPerfectos y Areas AC disponibles en los KML extraidos de los mapas de dicho foro.\n\nEspero seguir teniendo tiempo para incluir mejoras.\n\nPulse OK para comenzar.</string>
+    <string name="title_activity_lista">Listado</string>
+    <string name="btn_navigate">Navegar</string>
+
+</resources>

@@ -1,0 +1,2683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Furgovw Furgoperfectos AREAS v.2012</name>
+  <description><![CDATA[Furgoperfectos AREAS versión 2012
+www.furgovw.org
+Manolín
+]]></description>
+  <Style id="style252">
+  </Style>
+  <Style id="style175">
+  </Style>
+  <Style id="style262">
+  </Style>
+  <Style id="style67">
+  </Style>
+  <Style id="style49">
+  </Style>
+  <Style id="style277">
+  </Style>
+  <Style id="style131">
+  </Style>
+  <Style id="style90">
+  </Style>
+  <Style id="style168">
+  </Style>
+  <Style id="style285">
+  </Style>
+  <Style id="style92">
+  </Style>
+  <Style id="style27">
+  </Style>
+  <Style id="style57">
+  </Style>
+  <Style id="style24">
+  </Style>
+  <Style id="style282">
+  </Style>
+  <Style id="style80">
+  </Style>
+  <Style id="style10">
+  </Style>
+  <Style id="style61">
+  </Style>
+  <Style id="style263">
+  </Style>
+  <Style id="style195">
+  </Style>
+  <Style id="style50">
+  </Style>
+  <Style id="style208">
+  </Style>
+  <Style id="style122">
+  </Style>
+  <Style id="style54">
+  </Style>
+  <Style id="style150">
+  </Style>
+  <Style id="style142">
+  </Style>
+  <Style id="style109">
+  </Style>
+  <Style id="style151">
+  </Style>
+  <Style id="style163">
+  </Style>
+  <Style id="style217">
+  </Style>
+  <Style id="style63">
+  </Style>
+  <Style id="style123">
+  </Style>
+  <Style id="style227">
+  </Style>
+  <Style id="style192">
+  </Style>
+  <Style id="style14">
+  </Style>
+  <Style id="style88">
+  </Style>
+  <Style id="style165">
+  </Style>
+  <Style id="style143">
+  </Style>
+  <Style id="style72">
+  </Style>
+  <Style id="style18">
+  </Style>
+  <Style id="style85">
+  </Style>
+  <Style id="style203">
+  </Style>
+  <Style id="style56">
+  </Style>
+  <Style id="style278">
+  </Style>
+  <Style id="style58">
+  </Style>
+  <Style id="style247">
+  </Style>
+  <Style id="style216">
+  </Style>
+  <Style id="style155">
+  </Style>
+  <Style id="style154">
+  </Style>
+  <Style id="style239">
+  </Style>
+  <Style id="style183">
+  </Style>
+  <Style id="style62">
+  </Style>
+  <Style id="style254">
+  </Style>
+  <Style id="style185">
+  </Style>
+  <Style id="style98">
+  </Style>
+  <Style id="style129">
+  </Style>
+  <Style id="style287">
+  </Style>
+  <Style id="style127">
+  </Style>
+  <Style id="style225">
+  </Style>
+  <Style id="style60">
+  </Style>
+  <Style id="style214">
+  </Style>
+  <Style id="style148">
+  </Style>
+  <Style id="style100">
+  </Style>
+  <Style id="style40">
+  </Style>
+  <Style id="style233">
+  </Style>
+  <Style id="style83">
+  </Style>
+  <Style id="style132">
+  </Style>
+  <Style id="style33">
+  </Style>
+  <Style id="style206">
+  </Style>
+  <Style id="style188">
+  </Style>
+  <Style id="style221">
+  </Style>
+  <Style id="style89">
+  </Style>
+  <Style id="style229">
+  </Style>
+  <Style id="style258">
+  </Style>
+  <Style id="style75">
+  </Style>
+  <Style id="style283">
+  </Style>
+  <Style id="style291">
+  </Style>
+  <Style id="style202">
+  </Style>
+  <Style id="style96">
+  </Style>
+  <Style id="style289">
+  </Style>
+  <Style id="style242">
+  </Style>
+  <Style id="style20">
+  </Style>
+  <Style id="style248">
+  </Style>
+  <Style id="style108">
+  </Style>
+  <Style id="style190">
+  </Style>
+  <Style id="style78">
+  </Style>
+  <Style id="style46">
+  </Style>
+  <Style id="style170">
+  </Style>
+  <Style id="style3">
+  </Style>
+  <Style id="style139">
+  </Style>
+  <Style id="style246">
+  </Style>
+  <Style id="style273">
+  </Style>
+  <Style id="style94">
+  </Style>
+  <Style id="style189">
+  </Style>
+  <Style id="style169">
+  </Style>
+  <Style id="style264">
+  </Style>
+  <Style id="style45">
+  </Style>
+  <Style id="style37">
+  </Style>
+  <Style id="style53">
+  </Style>
+  <Style id="style28">
+  </Style>
+  <Style id="style36">
+  </Style>
+  <Style id="style141">
+  </Style>
+  <Style id="style138">
+  </Style>
+  <Style id="style84">
+  </Style>
+  <Style id="style256">
+  </Style>
+  <Style id="style212">
+  </Style>
+  <Style id="style199">
+  </Style>
+  <Style id="style112">
+  </Style>
+  <Style id="style245">
+  </Style>
+  <Style id="style179">
+  </Style>
+  <Style id="style4">
+  </Style>
+  <Style id="style102">
+  </Style>
+  <Style id="style110">
+  </Style>
+  <Style id="style69">
+  </Style>
+  <Style id="style17">
+  </Style>
+  <Style id="style176">
+  </Style>
+  <Style id="style294">
+  </Style>
+  <Style id="style22">
+  </Style>
+  <Style id="style126">
+  </Style>
+  <Style id="style201">
+  </Style>
+  <Style id="style48">
+  </Style>
+  <Style id="style164">
+  </Style>
+  <Style id="style16">
+  </Style>
+  <Style id="style267">
+  </Style>
+  <Style id="style184">
+  </Style>
+  <Style id="style119">
+  </Style>
+  <Style id="style275">
+  </Style>
+  <Style id="style200">
+  </Style>
+  <Style id="style93">
+  </Style>
+  <Style id="style147">
+  </Style>
+  <Style id="style159">
+  </Style>
+  <Style id="style194">
+  </Style>
+  <Style id="style172">
+  </Style>
+  <Style id="style161">
+  </Style>
+  <Style id="style116">
+  </Style>
+  <Style id="style82">
+  </Style>
+  <Style id="style276">
+  </Style>
+  <Style id="style193">
+  </Style>
+  <Style id="style107">
+  </Style>
+  <Style id="style66">
+  </Style>
+  <Style id="style77">
+  </Style>
+  <Style id="style257">
+  </Style>
+  <Style id="style65">
+  </Style>
+  <Style id="style136">
+  </Style>
+  <Style id="style234">
+  </Style>
+  <Style id="style268">
+  </Style>
+  <Style id="style135">
+  </Style>
+  <Style id="style8">
+  </Style>
+  <Style id="style35">
+  </Style>
+  <Style id="style224">
+  </Style>
+  <Style id="style171">
+  </Style>
+  <Style id="style238">
+  </Style>
+  <Style id="style274">
+  </Style>
+  <Style id="style121">
+  </Style>
+  <Style id="style118">
+  </Style>
+  <Style id="style124">
+  </Style>
+  <Style id="style211">
+  </Style>
+  <Style id="style174">
+  </Style>
+  <Style id="style167">
+  </Style>
+  <Style id="style106">
+  </Style>
+  <Style id="style271">
+  </Style>
+  <Style id="style38">
+  </Style>
+  <Style id="style253">
+  </Style>
+  <Style id="style231">
+  </Style>
+  <Style id="style191">
+  </Style>
+  <Style id="style64">
+  </Style>
+  <Style id="style15">
+  </Style>
+  <Style id="style160">
+  </Style>
+  <Style id="style226">
+  </Style>
+  <Style id="style91">
+  </Style>
+  <Style id="style55">
+  </Style>
+  <Style id="style1">
+  </Style>
+  <Style id="style2">
+  </Style>
+  <Style id="style25">
+  </Style>
+  <Style id="style52">
+  </Style>
+  <Style id="style115">
+  </Style>
+  <Style id="style153">
+  </Style>
+  <Style id="style180">
+  </Style>
+  <Style id="style105">
+  </Style>
+  <Style id="style157">
+  </Style>
+  <Style id="style187">
+  </Style>
+  <Style id="style210">
+  </Style>
+  <Style id="style178">
+  </Style>
+  <Style id="style21">
+  </Style>
+  <Style id="style125">
+  </Style>
+  <Style id="style74">
+  </Style>
+  <Style id="style196">
+  </Style>
+  <Style id="style51">
+  </Style>
+  <Style id="style120">
+  </Style>
+  <Style id="style145">
+  </Style>
+  <Style id="style250">
+  </Style>
+  <Style id="style219">
+  </Style>
+  <Style id="style59">
+  </Style>
+  <Style id="style207">
+  </Style>
+  <Style id="style11">
+  </Style>
+  <Style id="style228">
+  </Style>
+  <Style id="style149">
+  </Style>
+  <Style id="style71">
+  </Style>
+  <Style id="style181">
+  </Style>
+  <Style id="style232">
+  </Style>
+  <Style id="style293">
+  </Style>
+  <Style id="style280">
+  </Style>
+  <Style id="style237">
+  </Style>
+  <Style id="style259">
+  </Style>
+  <Style id="style270">
+  </Style>
+  <Style id="style146">
+  </Style>
+  <Style id="style39">
+  </Style>
+  <Style id="style26">
+  </Style>
+  <Style id="style281">
+  </Style>
+  <Style id="style144">
+  </Style>
+  <Style id="style79">
+  </Style>
+  <Style id="style152">
+  </Style>
+  <Style id="style140">
+  </Style>
+  <Style id="style32">
+  </Style>
+  <Style id="style296">
+  </Style>
+  <Style id="style269">
+  </Style>
+  <Style id="style284">
+  </Style>
+  <Style id="style286">
+  </Style>
+  <Style id="style255">
+  </Style>
+  <Style id="style205">
+  </Style>
+  <Style id="style12">
+  </Style>
+  <Style id="style243">
+  </Style>
+  <Style id="style31">
+  </Style>
+  <Style id="style272">
+  </Style>
+  <Style id="style29">
+  </Style>
+  <Style id="style86">
+  </Style>
+  <Style id="style222">
+  </Style>
+  <Style id="style43">
+  </Style>
+  <Style id="style130">
+  </Style>
+  <Style id="style30">
+  </Style>
+  <Style id="style166">
+  </Style>
+  <Style id="style292">
+  </Style>
+  <Style id="style213">
+  </Style>
+  <Style id="style87">
+  </Style>
+  <Style id="style162">
+  </Style>
+  <Style id="style137">
+  </Style>
+  <Style id="style42">
+  </Style>
+  <Style id="style97">
+  </Style>
+  <Style id="style19">
+  </Style>
+  <Style id="style186">
+  </Style>
+  <Style id="style9">
+  </Style>
+  <Style id="style70">
+  </Style>
+  <Style id="style81">
+  </Style>
+  <Style id="style295">
+  </Style>
+  <Style id="style114">
+  </Style>
+  <Style id="style68">
+  </Style>
+  <Style id="style251">
+  </Style>
+  <Style id="style182">
+  </Style>
+  <Style id="style111">
+  </Style>
+  <Style id="style230">
+  </Style>
+  <Style id="style244">
+  </Style>
+  <Style id="style220">
+  </Style>
+  <Style id="style261">
+  </Style>
+  <Style id="style290">
+  </Style>
+  <Style id="style297">
+  </Style>
+  <Style id="style223">
+  </Style>
+  <Style id="style197">
+  </Style>
+  <Style id="style249">
+  </Style>
+  <Style id="style177">
+  </Style>
+  <Style id="style158">
+  </Style>
+  <Style id="style265">
+  </Style>
+  <Style id="style34">
+  </Style>
+  <Style id="style235">
+  </Style>
+  <Style id="style266">
+  </Style>
+  <Style id="style128">
+  </Style>
+  <Style id="style13">
+  </Style>
+  <Style id="style47">
+  </Style>
+  <Style id="style240">
+  </Style>
+  <Style id="style156">
+  </Style>
+  <Style id="style6">
+  </Style>
+  <Style id="style241">
+  </Style>
+  <Style id="style260">
+  </Style>
+  <Style id="style279">
+  </Style>
+  <Style id="style113">
+  </Style>
+  <Style id="style44">
+  </Style>
+  <Style id="style288">
+  </Style>
+  <Style id="style134">
+  </Style>
+  <Style id="style236">
+  </Style>
+  <Style id="style173">
+  </Style>
+  <Style id="style104">
+  </Style>
+  <Style id="style101">
+  </Style>
+  <Style id="style73">
+  </Style>
+  <Style id="style204">
+  </Style>
+  <Style id="style117">
+  </Style>
+  <Style id="style23">
+  </Style>
+  <Style id="style103">
+  </Style>
+  <Style id="style7">
+  </Style>
+  <Style id="style95">
+  </Style>
+  <Style id="style133">
+  </Style>
+  <Style id="style99">
+  </Style>
+  <Style id="style198">
+  </Style>
+  <Style id="style215">
+  </Style>
+  <Style id="style209">
+  </Style>
+  <Style id="style218">
+  </Style>
+  <Style id="style41">
+  </Style>
+  <Style id="style5">
+  </Style>
+  <Style id="style76">
+  </Style>
+  <Placemark>
+    <name>Area de ac playa de Barraña (Boiro)  (Gratuito; Agua:Si:Wc:en verano)</name>
+    <styleUrl>#style252</styleUrl>
+    <Point>
+      <coordinates>-8.879614,42.643555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puy du Fou-Parque de la Historia (Parking  gratuito: si , agua: si, wc: si</name>
+    <styleUrl>#style175</styleUrl>
+    <Point>
+      <coordinates>-0.935597,46.890820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A Coruña  Gratuito: Si, Pernocta: Si, WC: Si, Agua: Si</name>
+    <styleUrl>#style262</styleUrl>
+    <Point>
+      <coordinates>-8.444425,43.371796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>A Pontenova  Gratuito; Agua: si; Wc: No</name>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-7.185606,43.355293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ac Mirandaola. Legazpi  Agua: Si, Wc: Si, Gratuito: Si</name>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-2.337813,43.036652,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>AC Sant Paul Les Durance  Agua: Si, WC: No, Gratuito: Si</name>
+    <styleUrl>#style277</styleUrl>
+    <Point>
+      <coordinates>5.711705,43.686665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aigues Mortes  7e noche, Agua: Si, WC: No</name>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>4.186306,43.566914,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aire du Jura  Gratuito; Agua: si, Wc: si; area de servicio autopista</name>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>5.522480,46.774090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alcaudete ( Jaen )  gratuito: si, agua: si, wc:no</name>
+    <styleUrl>#style168</styleUrl>
+    <Point>
+      <coordinates>-4.088786,37.590015,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Am Langenwall  Agua: No, Wc: Si, Luz: No, Gratuito: No 4eur día</name>
+    <styleUrl>#style285</styleUrl>
+    <Point>
+      <coordinates>13.097591,54.312717,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aranda de Duero  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-3.696170,41.665874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac a Bidonniere (Ardevon)  Tarifa: 10 eur/noche; Agua: si; Wc; si; duchas, wifi</name>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-1.477015,48.603760,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac A Rua  Gratuito; Agua: si; Wc: no; Grises: si; Negras: si; Electr: no</name>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-7.115128,42.389076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Aguilar de Campoo  Gratuito; Agua: si; Wc: no; Grises: si; Elec: no</name>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-4.257245,42.786301,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Allianz Arena (Munich)  (Gratuito: no (10 eur/24 h.); Agua: si; Wc: si; tren y autobus al centro)</name>
+    <styleUrl>#style282</styleUrl>
+    <Point>
+      <coordinates>11.625338,48.220772,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Alsfeld  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>9.278565,50.748631,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Annecy  Gratuito; Agua: si;Wc: no</name>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>6.138611,45.890556,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Apecchio  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>12.420033,43.559498,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Arezzo  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style263</styleUrl>
+    <Point>
+      <coordinates>11.887500,43.471699,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Arnedillo  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style195</styleUrl>
+    <Point>
+      <coordinates>-2.239875,42.214043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Astorga  Gratuito: Si, Pernocta: Si Agua: Si WC:No</name>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-6.065993,42.451359,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Auch  4 eur/noche; Agua: si; Wc: si</name>
+    <styleUrl>#style208</styleUrl>
+    <Point>
+      <coordinates>0.586009,43.637363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Autun  (Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>4.316297,46.955448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Baden Baden  (7eur/noche;Agua:si;Wc:no;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>8.204277,48.781746,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bagneres de Bigorre  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style150</styleUrl>
+    <Point>
+      <coordinates>0.153664,43.073296,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Beaugency  Gratuito; Agua: si (de pago); Wc: si; Electr: si (de pago)</name>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>1.636298,47.779449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bedoin   Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>5.173410,44.124191,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Belluno  Gratuito:no;Agua:si;Wc:si;Vaciado:si;Elect:no</name>
+    <styleUrl>#style151</styleUrl>
+    <Point>
+      <coordinates>12.214102,46.137665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bermeo en la Ctra. Matxitaxaco Bide Zabala  gratuito: si, agua:si, wc:no</name>
+    <styleUrl>#style163</styleUrl>
+    <Point>
+      <coordinates>-2.726111,43.423302,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Biarritz  Tarifa: 10 eur/dia; Agua: si; Wc: no; Grises: si; Negras: si; Electr: si</name>
+    <styleUrl>#style217</styleUrl>
+    <Point>
+      <coordinates>-1.558626,43.483150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Boñar  Gratuito; Agua: si; Wc: no; Grises: si; Negras: si; Electr: no</name>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-5.325880,42.872757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bourges  Gratuito: si; Agua: si; Wc: si</name>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>2.398611,47.076382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bouziès  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style227</styleUrl>
+    <Point>
+      <coordinates>1.644001,44.484127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bovec  Gratuito: no; Agua: si;Wc: no; Grises: si; Elec: si</name>
+    <styleUrl>#style192</styleUrl>
+    <Point>
+      <coordinates>13.539511,46.333126,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Brantome</name>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>0.645850,45.379101,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Brantome  Tarifa: 3.5 eur/noche; Agua: si (2 eur); Wc: no</name>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>0.647910,45.360420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Breuil-Cervinia  Tarifa:6eur/noche;Agua:si;Wc:no;Vaciado:si;Elect:no</name>
+    <styleUrl>#style165</styleUrl>
+    <Point>
+      <coordinates>7.620474,45.926079,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Bühl  Gratuito: no (5 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>8.129196,48.688721,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Cahors  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>1.440904,44.440220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Camaret sur Mer  Gratuito: no (4 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-4.608577,48.274105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Campan  Gratuito; Agua: Si; Wc: si</name>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>0.178291,43.018188,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Cangas de Onis  Gratuito: Si, Pernocta: Si, WC: No, Agua: Si</name>
+    <styleUrl>#style203</styleUrl>
+    <Point>
+      <coordinates>-5.125530,43.352596,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Carnac  (Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-3.082374,47.584621,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Carrion de los Condes  Gratuito: Si Agua: Si WC: No</name>
+    <styleUrl>#style278</styleUrl>
+    <Point>
+      <coordinates>-4.608000,42.338120,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Casteljaloux</name>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>0.078964,44.310555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Castellane  Gratuito: no (5eur/24 h.) Agua: si; Wc: no</name>
+    <styleUrl>#style247</styleUrl>
+    <Point>
+      <coordinates>6.516502,43.846012,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Castelnau-Montratier  Gratuito; Agua: si (2 eur.); Wc: no; Grises: si; Negras: si; Elect: no</name>
+    <styleUrl>#style216</styleUrl>
+    <Point>
+      <coordinates>1.352390,44.274448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Castro Marim  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style155</styleUrl>
+    <Point>
+      <coordinates>-7.444654,37.220043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Chateaubriant  Gratuito; Agua; si; Wc:no</name>
+    <styleUrl>#style154</styleUrl>
+    <Point>
+      <coordinates>-1.378060,47.703144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Citycamp (Copenhage)  Gratuito: no (25 eur/noche); Agua: si; Wc: si; Grises: si</name>
+    <styleUrl>#style239</styleUrl>
+    <Point>
+      <coordinates>12.557790,55.659027,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Clecy  Gratuito; Agua: si (jeton 2eur);Wc: si; Vaciado: si; Elec: no</name>
+    <styleUrl>#style183</styleUrl>
+    <Point>
+      <coordinates>-0.481175,48.918880,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Cordes sur Ciel  Gratuito: no (5 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>1.957884,44.064323,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Dax  Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:?</name>
+    <styleUrl>#style254</styleUrl>
+    <Point>
+      <coordinates>-1.049455,43.714348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Cauterets  Gratuito:no(10eur/dia)Agua:si;Wc:si;Vaciado:si;Electr:si</name>
+    <styleUrl>#style185</styleUrl>
+    <Point>
+      <coordinates>-0.112560,42.893608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC de Donosti  Gratuito: no, Agua: si, Wc: no</name>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-2.014425,43.307922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Goncourt  Gratuita; Agua: si (2 eur); Wc: no</name>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>5.607920,48.240509,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Laruns  Gratuito: no; Agua: si (2 eur); Wc: si</name>
+    <styleUrl>#style287</styleUrl>
+    <Point>
+      <coordinates>-0.422399,42.987869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac de Saldaña  Gratuito; Agua: si; wc: no</name>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>-4.741169,42.518555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Sare  Gratuito: no, agua: si, wc: si</name>
+    <styleUrl>#style225</styleUrl>
+    <Point>
+      <coordinates>-1.576999,43.313248,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Tremp  Gratuito; agua: si; Wc: no</name>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>0.890433,42.163116,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac de Verona  Gratuito: no (10eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style214</styleUrl>
+    <Point>
+      <coordinates>10.978382,45.433746,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC de Vieux-Boucau  Agua: Si. WC: ?. Gratuito: No (5eur o 10eur depede temporada)</name>
+    <styleUrl>#style148</styleUrl>
+    <Point>
+      <coordinates>-1.406894,43.779305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac del camping Lava (Santa Pau)  Tarifa: 11 eur/noche; Agua:si; Wc: si; Grises: si; Elec: si</name>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>2.546789,42.152302,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac des Arenes(Labenne)  Gratuito: no (6.5 eur.) ; Agua: si; Wc: no</name>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-1.454860,43.596210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Digoin  Gratuito;Agua:si;Wc:si;Vaciado:si;Elect:?</name>
+    <styleUrl>#style233</styleUrl>
+    <Point>
+      <coordinates>3.971313,46.480850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Dinkelsbuhl  (Gratuito:no(10eur);Agua:Si;Wc:si;Vaciado:si;Elect:si)</name>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>10.329080,49.078178,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Domme  Gratuito: no (5 eur/noche); Agua: si (2 eur.); Wc: no</name>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>1.221655,44.800488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Els Muntels  Gratuito:no(3eur/noche); Agua: si(3eur); Wc: si; Vaciado: si</name>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>0.759288,40.668694,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Elven  Gratuito: Si, Pernocta: Si Agua: Si WC: Si</name>
+    <styleUrl>#style206</styleUrl>
+    <Point>
+      <coordinates>-2.580728,47.739056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Encamp 2  Gratuito: no (15 eur); Agua: si; Wc: si</name>
+    <styleUrl>#style188</styleUrl>
+    <Point>
+      <coordinates>1.578582,42.532631,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Entrimo  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style221</styleUrl>
+    <Point>
+      <coordinates>-8.121410,41.932610,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac estacion esqui La Pierre St Martin  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-0.748063,42.979118,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Estacion esqui Les Deux Alpes  Gratuito: no (6 eur/noche); Agua: no; Wc: no</name>
+    <styleUrl>#style229</styleUrl>
+    <Point>
+      <coordinates>6.123934,45.023674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Eurodisney (Paris)  Gratuito: no (20 eur/dia) ; Agua: si; Wc: si</name>
+    <styleUrl>#style258</styleUrl>
+    <Point>
+      <coordinates>2.785788,48.877392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Faro  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>11.986942,54.948650,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Fatima  Gratuito: Si, Pernocta: Si Agua:  Si WC:Si</name>
+    <styleUrl>#style283</styleUrl>
+    <Point>
+      <coordinates>-8.672719,39.632217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Ferrol  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style291</styleUrl>
+    <Point>
+      <coordinates>-8.240154,43.493423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Finale Ligure  Tarifa:9eur/12h; Agua: si; Wc:no;Vaciado:si</name>
+    <styleUrl>#style202</styleUrl>
+    <Point>
+      <coordinates>8.337851,44.165398,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Fontet  Gratuito: no (7 eur/noche); Agua: si; Wc: si</name>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-0.021383,44.560509,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Fougeres  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style289</styleUrl>
+    <Point>
+      <coordinates>-1.211017,48.355179,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Friburgo  (Tarifa:8eur/noche;Agua:si;Wc:no;Vaciado:si;Elect:si)</name>
+    <styleUrl>#style242</styleUrl>
+    <Point>
+      <coordinates>7.825613,47.999428,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Fromista  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-4.412151,42.264854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Fumel  Agua: Si, Wc: Si, Gratuito: Si</name>
+    <styleUrl>#style248</styleUrl>
+    <Point>
+      <coordinates>0.972086,44.498135,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Genelard  Gratuito; Agua: si; Wc: si; Grises: si</name>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>4.235052,46.577690,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Gordes  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style190</styleUrl>
+    <Point>
+      <coordinates>5.197632,43.915123,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Gourdon  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:si)</name>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>1.384813,44.733990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Hameln  (Gratuito:no(8eur);Agua:no;Wc:no;Vaciado:?;Elect:si)</name>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>9.359824,52.095520,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Herbstein  Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:si(1eur)</name>
+    <styleUrl>#style170</styleUrl>
+    <Point>
+      <coordinates>9.346150,50.568520,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Homberg  Gratuito;Agua:si(1eur);Wc:si;Vaciado:si;Electr:si(gratis)</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>9.414510,51.027630,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac hotel Ekai   Area privada junto a restaurante. Gratuito, agua, wc y duchas.</name>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>-1.385360,42.776241,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Illice (Elche)  (Tarifa: 12 eur/noche; Agua: si; Wc: no; wifi)</name>
+    <styleUrl>#style246</styleUrl>
+    <Point>
+      <coordinates>-0.692275,38.282272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Illunbe (San Sebastian)  Gratuito; Agua: si; Wc: no; Grises: si; Negras: si; Elect: no</name>
+    <styleUrl>#style273</styleUrl>
+    <Point>
+      <coordinates>-1.969809,43.296917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Jans  Gratuito; Agua:si;Wc:si; Vaciado: si; Elec: no</name>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-1.611611,47.621613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Josselin  Gratuito; Agua: si (2 eur); Wc: si</name>
+    <styleUrl>#style189</styleUrl>
+    <Point>
+      <coordinates>-2.550295,47.956306,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Jørpeland  (Tarifa:13eur/24h;Agua:Si;Wc:si;Vaciado:no;Elec:si;Ducha:si)</name>
+    <styleUrl>#style169</styleUrl>
+    <Point>
+      <coordinates>6.043897,59.017300,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Klein Amerika (Gouda)  Tarifa:7 eur/di­a;Agua:no:Wc:si (de pago)</name>
+    <styleUrl>#style264</styleUrl>
+    <Point>
+      <coordinates>4.716074,52.012810,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac La Plage (Vieux-Bocau)  11 eur/noche. Electricidad: si; cercano a la playa</name>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-1.405113,43.795334,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac La Teste de Buch  Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:no</name>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-1.148104,44.651546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Lampaul-Guimiliau  (Gratuito;AGua:si;Wc:no;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-4.038259,48.494335,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Le Boulou  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>2.837734,42.527241,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Le Lavandou  Tarifa: 15 eur/noche; Agua: Si; wc: si; Grises: si; Elec:no</name>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>6.431991,43.151875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Lekeitio  Gratuito; Agua: si; Grises: si; Electr: no</name>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>-2.507200,43.358387,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac León  (Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>-5.584945,42.604618,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Les Angles  Gratuito: si; Agua: si; Wc: si</name>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>2.068570,42.563511,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Les-Eyzies-de-Tayac  Gratuito: no(4eur/noche); Agua: si; Wc: si</name>
+    <styleUrl>#style256</styleUrl>
+    <Point>
+      <coordinates>1.009519,44.938847,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Lindau  Tarifa: 1.5 eur/noche; Agua: si; Wc: si</name>
+    <styleUrl>#style212</styleUrl>
+    <Point>
+      <coordinates>9.700650,47.557049,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Lisle sur Tarn  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style199</styleUrl>
+    <Point>
+      <coordinates>1.818460,43.862041,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Listorreta  (Gratuito;Agua:si;Wc:si;Vaciado:si;Elect:no)</name>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>-1.901354,43.267994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Logroño  Gratuito; Agua: si; Wc: no; Grises: si</name>
+    <styleUrl>#style245</styleUrl>
+    <Point>
+      <coordinates>-2.457291,42.478096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Logrosan  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style179</styleUrl>
+    <Point>
+      <coordinates>-5.479195,39.333054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Lucerna  Gratuito: solo de noche; Agua: si; Wc: si</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>8.340272,47.050430,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Lugana Marina (Lago di Garda)  Tarifa:20eur/24h;Agua:si;Wc:si;Vaciado:si;Elect:si(3eur)</name>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>10.633112,45.460663,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Lugo  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>-7.561394,43.004456,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac L´Encanyissada  Gratuito;Agua: si (3 eur.); Wc: si: Sumidero grises y negras</name>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>0.675273,40.659130,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Macedo de Cavaleiros  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-6.957135,41.537624,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Mañons (Boiro)  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style176</styleUrl>
+    <Point>
+      <coordinates>-8.853178,42.633518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Marburg  (Gratuito:no(8eur);Agua:Si;Wc:si;Vaciado:si;Elect:si)</name>
+    <styleUrl>#style294</styleUrl>
+    <Point>
+      <coordinates>8.775280,50.803680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Marina di Pisa  5-10 eur/noche; Agua: si; Wc: no</name>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>10.268526,43.676811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Masia Can Batlle (AvinyÃ³ Nou)  Gratuito; Agua: si; Wc: no; Grises: si; Electr: no</name>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>1.773206,41.368057,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Mesquer - Quimiac  Gratuito: Si, Agua: No, WC: No</name>
+    <styleUrl>#style201</styleUrl>
+    <Point>
+      <coordinates>-2.491150,47.404621,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Mirepoix  Gratuito;Agua:si;Wc:si;Vaciado:si;Eletr:no</name>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>1.873941,43.085018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Mondoñedo  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style164</styleUrl>
+    <Point>
+      <coordinates>-7.370142,43.427692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Moulismes  Gratuito; Agua: si (2 eur.); Wc: si</name>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>0.810547,46.333294,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Mula  (Gratuito;Agua:Si;Wc:no;Vaciado:si;Elect:?)</name>
+    <styleUrl>#style267</styleUrl>
+    <Point>
+      <coordinates>-1.481390,38.039719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Navarcles  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style184</styleUrl>
+    <Point>
+      <coordinates>1.909293,41.756691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Nordkapp  52 eur/noche (furgo+2pax); Agua: si; Wc: si</name>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>25.781822,71.168472,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Nordlingen  Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:si(1eur/8h)</name>
+    <styleUrl>#style275</styleUrl>
+    <Point>
+      <coordinates>10.484380,48.855350,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Nozeroy  Gratuito: no (5 eur/noche); Agua: si; WC:si; Ducha: si</name>
+    <styleUrl>#style200</styleUrl>
+    <Point>
+      <coordinates>6.036483,46.772518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Oberstdorf  (Gratuito:no(17.2eur);Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>10.285778,47.408485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Obidos  Gratuito: no (6 eur/noche); Agua: si (2 eur); Wc: no</name>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>-9.157035,39.356396,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Oloron St Marie  (Gratuito;Agua:si(de pago);Wc:no;Vaciado:si;Elec:si(de pago))</name>
+    <styleUrl>#style159</styleUrl>
+    <Point>
+      <coordinates>-0.608457,43.183716,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Olvera (Via verde de la Sierra)  (Gratuito;Agua:si(5eur);Wc:no;Vaciado:si;Elec:si)</name>
+    <styleUrl>#style194</styleUrl>
+    <Point>
+      <coordinates>-5.253056,36.941387,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Oradour-su-Glane  Gratuito: si; Agua: si; Wc: si</name>
+    <styleUrl>#style172</styleUrl>
+    <Point>
+      <coordinates>1.025183,45.935646,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Orta San Giulio  Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:no</name>
+    <styleUrl>#style161</styleUrl>
+    <Point>
+      <coordinates>8.411928,45.797260,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Oslo  (Tarifa:20eur/24h;Agua:Si;Wc:si;Vaciado:no;Elec:si;Ducha:si)</name>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>10.675898,59.918236,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Paimpol  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-3.046944,48.782501,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Parada de Sil  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style276</styleUrl>
+    <Point>
+      <coordinates>-7.571458,42.382778,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Pena da Mula (Quiroga)  Gratuito; Agua; si; Wc: no; Grises: si; Negras: si; Electr: no</name>
+    <styleUrl>#style193</styleUrl>
+    <Point>
+      <coordinates>-7.286264,42.468941,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Perigueaux  Tarifa: 5 eur/noche; Agua: si; Wc: no</name>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>0.730780,45.187679,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Piau Engaly  Gratuito: no (7 eur/noche); Agua: si; Wc: si</name>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>0.157180,42.786362,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Pierrefitte-Nestalas  Gratuito: si Agua: Si WC: si</name>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-0.077178,42.960533,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Platja d´Aro  Gratuto: no (8 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style257</styleUrl>
+    <Point>
+      <coordinates>3.057885,41.810539,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Playa des Corsaires (Anglet)  Gratuito: no (6 eur/48h.); Agua: si; wc: no</name>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-1.534604,43.506725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Ploubalay  (Gratuito;Agua:si;Wc:si;Vaciado: si;Elec:no)</name>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>-2.144821,48.580296,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Plougasnou  Gratuito; Agua: si; Wc:no; Vaciado: si: Elec:si</name>
+    <styleUrl>#style234</styleUrl>
+    <Point>
+      <coordinates>-3.792118,48.694061,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Plougonvelin  (Gratuito:no(6eur/24h)Agua:si;Wc:si;Vaciado:si;Ducha:si)</name>
+    <styleUrl>#style268</styleUrl>
+    <Point>
+      <coordinates>-4.707293,48.337708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Pola de Laviana  (Gratuito;Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>-5.568422,43.254837,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Portovenere  Gratuito: no; Agua: si; Wc: no</name>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>9.848790,44.059620,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac praia fluvial O Moinho  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-7.221891,40.229813,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Puerto de Dinan  (Gratuito;Agua:si;WC:no;Vaciado:si)</name>
+    <styleUrl>#style224</styleUrl>
+    <Point>
+      <coordinates>-2.047780,48.451939,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Rosignano Solvay  Gratuito:no(30eur/noche);Agua:si;Wc:no;Vaciado:si</name>
+    <styleUrl>#style171</styleUrl>
+    <Point>
+      <coordinates>10.428468,43.398399,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Rottingen  Gratuito: si, Agua: si, Wc: si</name>
+    <styleUrl>#style238</styleUrl>
+    <Point>
+      <coordinates>9.970360,49.507210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Rouffach  (Gratuito;Agua:si(jeton);Wc:si;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style274</styleUrl>
+    <Point>
+      <coordinates>7.295587,47.955730,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Rovinj  Gratuito: no (25kn/hora); Agua: si; Wc: si</name>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>13.645186,45.088940,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC s Morella  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>-0.094242,40.625732,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Saillagouse  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>2.037698,42.457645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Saint Paul les Dax  Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:no</name>
+    <styleUrl>#style211</styleUrl>
+    <Point>
+      <coordinates>-1.078667,43.734386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Saintes  Gratuito; Agua: si (5 eur); Wc: no</name>
+    <styleUrl>#style174</styleUrl>
+    <Point>
+      <coordinates>-0.626532,45.754753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac San Juan de Luz  Gratuito; Agua: si; Wc: si; sitio ruidoso</name>
+    <styleUrl>#style167</styleUrl>
+    <Point>
+      <coordinates>-1.662911,43.385254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Sarlat La Caneda  Gratuito: no (5 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>1.212428,44.895580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac St Cirq La Popie  Tarifa: 7 eur/noche; Agua: si (2 eur); Wc:si; Duchar; si; Electricidad: si (2 eur)</name>
+    <styleUrl>#style271</styleUrl>
+    <Point>
+      <coordinates>1.680694,44.470741,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac St Cyprien  Gratuito; Agua: si; Wc: no; Electicidad: si (3eur)</name>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>1.043819,44.868378,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac St Sever  (Gratuito;Agua:Si;Wc:no;Vaciado:si;Elect:no)</name>
+    <styleUrl>#style253</styleUrl>
+    <Point>
+      <coordinates>-0.575720,43.759201,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac St.Eulalie en Born  Tarifa:6.5eur/noche;Agua,Wc,duchas,vaciado</name>
+    <styleUrl>#style231</styleUrl>
+    <Point>
+      <coordinates>-1.181268,44.307652,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac St.Pierre des Nids  Gratuito; Agua: si;Wc: no; Vaciado: si; Elec: no</name>
+    <styleUrl>#style191</styleUrl>
+    <Point>
+      <coordinates>-0.089071,48.402161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac St.Valery-sur-Somme  Gratuito: no; Agua: si; Wc: no</name>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>1.628880,50.182499,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Stadtwaldsee (Bremen)  (Tarifa:10eur/noche;Agua:si;Wc:Si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>8.835754,53.113811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Steinau an der Strabe  Gratuito;Agua:si;Wc:si;Vaciado:si</name>
+    <styleUrl>#style160</styleUrl>
+    <Point>
+      <coordinates>9.460430,50.315842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Sully sur Loire  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:no)</name>
+    <styleUrl>#style226</styleUrl>
+    <Point>
+      <coordinates>2.384520,47.771107,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Tapia de Casariego  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-6.946065,43.566082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Termoludico Cascante  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-1.687778,41.994167,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Torre de Moncorvo  Gratuito; Agua: si; Wc: si (cierran por la noche)</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-7.041802,41.180927,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Tortosa  Gratuito; Agua: si; Wc: no; Grises: si; negras: si; Electr: no</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>0.514170,40.802780,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Tournon-sur-Rhone   Gratuito; Agua: si ;wc: no; Grises: si; Elec: no</name>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>4.822215,45.073143,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Treguier  Gratuito; Agus: si; Wc: no; Vaciado: si; Elec:</name>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-3.230743,48.790413,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Turegano  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>-4.008594,41.153423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Ulm  Gratuito: no; Agua: si (de pago); Wc: no</name>
+    <styleUrl>#style153</styleUrl>
+    <Point>
+      <coordinates>10.009497,48.407410,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Valladolid  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style180</styleUrl>
+    <Point>
+      <coordinates>-4.736974,41.655788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Villalba  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-7.677019,43.295753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Volterra  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style157</styleUrl>
+    <Point>
+      <coordinates>10.861992,43.402710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Ac Vouvray  Gratuito: si; Agua: si (2 eur.); Wc: si</name>
+    <styleUrl>#style187</styleUrl>
+    <Point>
+      <coordinates>0.797496,47.409431,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC Wiessentorstrasse (Dresden)   (Gratuito:no(14eur);Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style210</styleUrl>
+    <Point>
+      <coordinates>13.742652,51.056961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ac Witzenhausen  (Gratuito;Agua:Si;Wc:no;Vaciado:si;Elect:si)</name>
+    <styleUrl>#style178</styleUrl>
+    <Point>
+      <coordinates>9.853789,51.345745,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area AC y Furgoperfecto Foz do Areilho  Area AC y Furgoperfecto</name>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-9.220099,39.428413,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Brujas</name>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>3.223286,51.194942,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Cabra  Agua: Si/Vaciado: Si/Gratuita</name>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-4.424014,37.466667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs CIS de Champagne (REIMS)  Gratuito Si, Agua Si, WC Si</name>
+    <styleUrl>#style196</styleUrl>
+    <Point>
+      <coordinates>4.021157,49.248856,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs El Bosque  Agua: Si/Vaciado: Si/Gratuita</name>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-5.507069,36.756905,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs EL Entrego</name>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>-5.639328,43.286221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Lierganes</name>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>-3.741682,43.344860,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Messanges (Landas)  Agua-WC-Duchas SI (playa)-Vaciado NO-Gratis</name>
+    <styleUrl>#style250</styleUrl>
+    <Point>
+      <coordinates>-1.402602,43.815708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Miranda de Ebro  Agua Si/Vaciado Si/WC No/Gratuita</name>
+    <styleUrl>#style219</styleUrl>
+    <Point>
+      <coordinates>-2.954829,42.688461,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area ACs Zafra  Agua Si/Vaciado Si/WC Si/Gratuito</name>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-6.410767,38.425167,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area Autocaravanas Batalha  Gratuito: si; Agua: si; Wc: no</name>
+    <styleUrl>#style207</styleUrl>
+    <Point>
+      <coordinates>-8.825304,39.661343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de ac Cuellar  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:no)</name>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-4.320331,41.401680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de AC de Chantada  Gratuito: si, Agua: si, Wc: no</name>
+    <styleUrl>#style228</styleUrl>
+    <Point>
+      <coordinates>-7.779887,42.605980,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de ac Equihen plage  Gratuito: no (5 eur/noche); agua: si; wc: no</name>
+    <styleUrl>#style149</styleUrl>
+    <Point>
+      <coordinates>1.566367,50.679684,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de Ac Isla dos Aguas (Palencia)  Gratuito: Si, Pernocta: Si Agua:  Si WC:No</name>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-4.534929,42.004009,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de ACs de Caceres  Gratuito: Si, Pernocta: Si Agua: Si WC:si</name>
+    <styleUrl>#style181</styleUrl>
+    <Point>
+      <coordinates>-6.371210,39.479931,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de ACs de Priego  Agua Si/Vaciado Si/WC Si/Gratuita</name>
+    <styleUrl>#style232</styleUrl>
+    <Point>
+      <coordinates>-4.211841,37.442272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de ACs de Sierra Nevada  Pernocta: si,  Agua:si, Vaciado grises: si, Luz:si, WC:no, Duchas: No</name>
+    <styleUrl>#style293</styleUrl>
+    <Point>
+      <coordinates>-3.393391,37.098938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de Autocaravanas de Bilbao  15eur-dia,Agua Si, WC Si</name>
+    <styleUrl>#style280</styleUrl>
+    <Point>
+      <coordinates>-2.964010,43.259686,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de Cartelle (Ourense)  Gratuito: si, Agua: si, Wc: no</name>
+    <styleUrl>#style237</styleUrl>
+    <Point>
+      <coordinates>-8.033056,42.214443,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de Montseny  Agua Si/Vaciado Si/WC Si/Gratuito</name>
+    <styleUrl>#style259</styleUrl>
+    <Point>
+      <coordinates>2.407980,41.636028,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area de servicios para autocaravanas de Vitoria-  gratuito: si, agua: si, wc:no</name>
+    <styleUrl>#style270</styleUrl>
+    <Point>
+      <coordinates>-2.685015,42.866669,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area del Penedes  Agua Si/Vaciado Si/WC Si/Gratuito</name>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>1.581774,41.280708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Area y Parking pointe du Grouin  Gratuito Si, Agua Si, WC No</name>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-1.846427,48.706886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Arrens-Marsous  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elect:?)</name>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-0.207429,42.958530,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Auray  Gratuito: No, Pernocta: Si Agua: Si WC:No</name>
+    <styleUrl>#style281</styleUrl>
+    <Point>
+      <coordinates>-2.976308,47.664795,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Auschwitz  Gratuito: no; Agua: no; Wc: si</name>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>19.201620,50.027702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>barcelona, forum  gratuito: no, agua:si, wc:si</name>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>2.222060,41.413139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bertamirans  Gratuito: Si, Pernocta: Si, WC: No, Agua: Si</name>
+    <styleUrl>#style152</styleUrl>
+    <Point>
+      <coordinates>-8.648756,42.859707,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Burela  Gratuito: Si, Pernocta: Si Agua: Si WC:No</name>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>-7.358383,43.653202,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cabarceno</name>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-3.819718,43.358021,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Camper Park Alfaz del Pi  (Tarifa:11eur/noche;Agua:si;Wc:si;Vaciado:si;wifi)</name>
+    <styleUrl>#style296</styleUrl>
+    <Point>
+      <coordinates>-0.084047,38.560390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Camperpark Huerta de Murcia  (Tarifa:12eur/noche;Area privada;Agua,wc,vaciado,electr..)</name>
+    <styleUrl>#style269</styleUrl>
+    <Point>
+      <coordinates>-1.043320,38.007648,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Camperstopsierraespuña (Totana)  (Gratuito: no(7eur/noche); Agua: si; Wc: no)</name>
+    <styleUrl>#style284</styleUrl>
+    <Point>
+      <coordinates>-1.481266,37.783943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Capbreton (Area ACs) (Francia)  Gratuito: No, Pernocta: Si Agua: Si WC:si</name>
+    <styleUrl>#style286</styleUrl>
+    <Point>
+      <coordinates>-1.447191,43.636059,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carcassone  gratuito: no , agua: si, wc: si</name>
+    <styleUrl>#style255</styleUrl>
+    <Point>
+      <coordinates>2.366406,43.207958,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caunes Minervois  Agua: No, Wc: No, Luz: Si, Gratuito: Si</name>
+    <styleUrl>#style205</styleUrl>
+    <Point>
+      <coordinates>2.525493,43.326832,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centre social d´Argonne (Les Islettes)  Gratuito:no(5eur);Agua:si;Wc:si;Vaciado:si;Elec:si</name>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>5.036388,49.120892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro comercial River  (Gratuito; Agua: no; Wc: si; parking centro comercial)</name>
+    <styleUrl>#style243</styleUrl>
+    <Point>
+      <coordinates>1.486437,42.453522,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Collioure  Gratuito: no; Agua: si; Wc: si</name>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>3.068436,42.524635,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corral de los Juncos (Tejeda)  gratuito si, agua:si, wc:si</name>
+    <styleUrl>#style272</styleUrl>
+    <Point>
+      <coordinates>-15.588119,27.975889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cuevas de Postojna    Tarifa: 15 eur/24h; Agua: si; Wc:si; Electricidad: si</name>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>14.205569,45.781502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Döbele Kostanz  (Gratuito:no(15eur);Agua:si;Wc:si;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>9.169276,47.658054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DUILHAC SOUS PEYREPERTUSE  Gratuito: si ; Agua: si ; WC: si</name>
+    <styleUrl>#style222</styleUrl>
+    <Point>
+      <coordinates>2.565500,42.861439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ediger (Ac)  Agua: No, Wc: No, Gratuito: 2eur</name>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>7.160039,50.092911,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Encamp  Gratuito: no; Agua: si; Wc: no</name>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>1.588731,42.535442,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Erquy  Gratuito: 4e, Agua: pagando, WC: No</name>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-2.472696,48.621662,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estacion de servicio de Legarda (A-12)  Gratuito; Agua: si (de pago); Wc: si; area de descanso en autovia</name>
+    <styleUrl>#style166</styleUrl>
+    <Point>
+      <coordinates>-1.777299,42.710850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estacion esqui Peyragudes (sector Peyresourde)  Gratuito Si, Agua No, WC Si</name>
+    <styleUrl>#style292</styleUrl>
+    <Point>
+      <coordinates>0.439260,42.796352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estacion Invernal Alto Campoo  (Gratuito;Agua:si;WC:si;Vaciado:si;Elec:no)</name>
+    <styleUrl>#style213</styleUrl>
+    <Point>
+      <coordinates>-4.370735,43.038124,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Europa Area (Santa Pola)  Tarifa: 10 eur/noche; Agua: si; Wc: si; Grises: si; wifi</name>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-0.574189,38.208141,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fontaine de Vaucluse  Gratuito: no; Agua: si; Wc: si</name>
+    <styleUrl>#style162</styleUrl>
+    <Point>
+      <coordinates>5.121900,43.920673,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fouras  gratuito: no , agua: de pago, wc: no</name>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>-1.087003,45.981735,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gourette (Estacion de Esqui Alpino)  Gratuito ?, Agua No, WC No</name>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-0.328850,42.956684,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Guimaec  Gratuito: Si, Agua: Si, WC: No</name>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-3.676515,48.687248,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Holand  Gratutito; Agua: si; Wc: si; Grises: si; Elec: si</name>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>13.699422,66.724609,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ile aux Cygnes (Le Bourget du Lac)  Gratuito: No, Pernocta: Si Agua: Si WC:si</name>
+    <styleUrl>#style186</styleUrl>
+    <Point>
+      <coordinates>5.860176,45.653408,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Barre (Anglet)  Gratuto: no (6 eur/noche); Agua: si; Wc: si; Grises:si; Negras: si: Elect: no</name>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-1.516974,43.526356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La boutinardiere  Gratuito: 4e, Agua: pagando, WC: Si</name>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-2.049744,47.095139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LACANAU-OCEAN  9eur dia, Agua Si WC No</name>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-1.168708,45.006184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lagoa de Cospeito  Agua: Si   WC: No    Gratuito: Si</name>
+    <styleUrl>#style295</styleUrl>
+    <Point>
+      <coordinates>-7.555643,43.239902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Cap d Agde  Gratuito: no; agua: si; Wc: no</name>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>3.517465,43.285912,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Cellier  Gratuito; Agua: si; Wc: si; Grises: si; negras: si; Electr: no</name>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-1.347875,47.319786,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Les Cabannes  Gratuito: no (4 eur/noche); Agua: Si (de pago); Wc: Si; Electricidad: si</name>
+    <styleUrl>#style251</styleUrl>
+    <Point>
+      <coordinates>1.688380,42.784710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Les Seguettes (Loudenvielle)  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:si)</name>
+    <styleUrl>#style182</styleUrl>
+    <Point>
+      <coordinates>0.410898,42.801556,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Locronan (Area de autocaravanas)  Agua: Si, Wc: Si, Gratuito: Si</name>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>-4.212399,48.098175,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Loudenvielle-BALNEA (centro termoludico)  3eur dia, Agua Si, WC ?</name>
+    <styleUrl>#style230</styleUrl>
+    <Point>
+      <coordinates>0.408441,42.796726,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marine d Albo  Agua: Si, WC: No, Gratuito: Si</name>
+    <styleUrl>#style244</styleUrl>
+    <Point>
+      <coordinates>9.333637,42.811050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MARKEN  Gratuito: no, Agua: no, Wc: si</name>
+    <styleUrl>#style220</styleUrl>
+    <Point>
+      <coordinates>5.104646,52.456505,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Milladoiro  Gratuito: Si, Pernocta: Si, WC: No, Agua: Si</name>
+    <styleUrl>#style261</styleUrl>
+    <Point>
+      <coordinates>-8.580993,42.845318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Millau  Agua: Si, Wc: Si, Luz: Si, Gratuito: Si</name>
+    <styleUrl>#style290</styleUrl>
+    <Point>
+      <coordinates>3.082400,44.094921,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Monforte de Lemos  Gratuito: Si , Pernocta: Si</name>
+    <styleUrl>#style297</styleUrl>
+    <Point>
+      <coordinates>-7.511784,42.527874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Montsalvy  Gratuito: si; Agua: si; Wc: si</name>
+    <styleUrl>#style223</styleUrl>
+    <Point>
+      <coordinates>2.496860,44.708061,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nantua,  gratuito: no , agua: si, wc: si</name>
+    <styleUrl>#style197</styleUrl>
+    <Point>
+      <coordinates>5.603628,46.156708,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Norsholm  Tarifa: 20 eur/noche; Agua: si; Wc: si; Ducha: si; Elec: si</name>
+    <styleUrl>#style249</styleUrl>
+    <Point>
+      <coordinates>15.976962,58.507488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Odissea Camper Area (Denia)  Gratuito: no (12 eur./dia); Agua: si; Wc: si; Electr: si; Ducha, Wifi</name>
+    <styleUrl>#style177</styleUrl>
+    <Point>
+      <coordinates>-0.013701,38.870937,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paimpont (Area Autocaravanas)  Agua: Si, Wc: No, Gratuito: Si</name>
+    <styleUrl>#style158</styleUrl>
+    <Point>
+      <coordinates>-2.171463,48.022919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palazuelos de Eresma  Gratuito: si, Agua: Si, WC: no</name>
+    <styleUrl>#style265</styleUrl>
+    <Point>
+      <coordinates>-4.056895,40.928982,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parking Bullidor (Pas de la Casa)  Gratuito: no (1.10 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>1.733437,42.545380,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parking de autocaravanas del cabo de Finisterre  gratuito: si, agua: no, wc: no</name>
+    <styleUrl>#style235</styleUrl>
+    <Point>
+      <coordinates>-9.272332,42.886517,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parking la Mercera (Peñiscola)  Gratuito: no (8eur/dia); Agua: si; Wc: no</name>
+    <styleUrl>#style266</styleUrl>
+    <Point>
+      <coordinates>0.412851,40.397888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parque Nacional Salamajarvi  Gratuito; Agua: si; Wc: si</name>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>24.820992,63.236931,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parque tematico del Mudejar (Olmedo)  (Gratuito;Agua:si;Wc:no;Vaciado:si;Elec:?)</name>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-4.681930,41.291649,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pisa  Gratuito: no; Agua: si; Wc: no</name>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>10.391564,43.728634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pista Central Tenis Benidorm  Tarifa: 12 eur/noche; Agua: si; Wc: si; Grises: si; Elec: si</name>
+    <styleUrl>#style240</styleUrl>
+    <Point>
+      <coordinates>-0.083621,38.560024,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Playa de Ondres  Gratuito: no; Agua: si; Wc: si</name>
+    <styleUrl>#style156</styleUrl>
+    <Point>
+      <coordinates>-1.486351,43.576237,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pont a Mouson  (Tarifa:de 7.50 a 13.50eur;Agua:si;Wc:no)</name>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>6.061268,48.902969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pont Aven  Gratuito: Si, Agua: Pagando, WC: No</name>
+    <styleUrl>#style241</styleUrl>
+    <Point>
+      <coordinates>-3.743463,47.853905,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pontecaldelas  Gratuito; Agua: si; Grises: si; Negras: si; Wc: no; Elect: no</name>
+    <styleUrl>#style260</styleUrl>
+    <Point>
+      <coordinates>-8.499376,42.388840,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Port Kerne (Quiberon)  Gratuito: no (5 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style279</styleUrl>
+    <Point>
+      <coordinates>-3.136810,47.488312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Port La Nouvelle  Gratuito; Agua: si (pagando); Wc: no</name>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>3.040885,43.013485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Reisemibilstation Berlin-Mitte  17eur dia Agua Si WC Si</name>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>13.372295,52.538189,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Republica de San Marino  Gratuito: Si, Agua: No , WC: no</name>
+    <styleUrl>#style288</styleUrl>
+    <Point>
+      <coordinates>12.444854,43.935036,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Roullet-Saint-Estèphe  Gratuito; Agua: si; Wc: no</name>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>0.044782,45.580368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saint Brice en Cogles   Gratuito: si; Agua: si; Wc: si</name>
+    <styleUrl>#style236</styleUrl>
+    <Point>
+      <coordinates>-1.362780,48.411110,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saint Flour  Gratuito; Agua: si (2 eur); Wc: no</name>
+    <styleUrl>#style173</styleUrl>
+    <Point>
+      <coordinates>3.100140,45.034576,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Saint Martin de Re  (Tarifa:10eur/noche;Agua:si;Wc:no;Vaciado:si;Elect:?)</name>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>-1.365056,46.199326,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Salle Omnisports Saint-Pierre-Quiberon  Gratuito; Agua: si (2 eur); Wc: no; Grises: si; Negras: si; Elect: no</name>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>-3.138930,47.511528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Remo  Gratuito: no (10 eur/noche); Agua: si; Wc: no</name>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>7.747716,43.802792,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seignosse  Gratuito: no; Agua: si; Wc:si</name>
+    <styleUrl>#style204</styleUrl>
+    <Point>
+      <coordinates>-1.426206,43.692398,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Denis - Ile d oleron  Gratuito: 9e, Agua: pagando, WC: Si</name>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>-1.384192,46.028271,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Talmont Saint Hilaire  Gratuito si; Agua: si; Wc: no</name>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-1.615549,46.467159,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Thiers (iloa)  Agua: Si, Wc: Si, Luz: No, Gratuito: Si</name>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>3.482549,45.868725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Trigance (Provenza) Área ACs  Gratuito: Depende de la época del año Pernocta: si WC: Si Agua:si</name>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>6.442108,43.782993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuy  Gratuito: si Pernocta: si WC: no Agua:si</name>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-8.646498,42.043354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Valverde del Camino  Gratuito Si, Agua Si, WC No</name>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>-6.751650,37.581070,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vassieux-en-Vercors  Gratuito; Agua: si;Wc: no; Grises: si; Negras: no; Elec: no</name>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>5.369632,44.897766,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villefranche de Conflent  gratuito:no;agua:si;wc:si</name>
+    <styleUrl>#style198</styleUrl>
+    <Point>
+      <coordinates>2.366073,42.586884,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[Area de Autocaravanas] Amurrio  gratuito: no, agua: si, wc:si</name>
+    <styleUrl>#style215</styleUrl>
+    <Point>
+      <coordinates>-2.967435,43.031555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[Area de autocaravanas] La Alberca  gratuito: si, agua: si, wc:no</name>
+    <styleUrl>#style209</styleUrl>
+    <Point>
+      <coordinates>-6.116230,40.488476,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[Area de autocaravanas] La Roque Gageac (Lot et Ga  Gratuito: no (5 eur/noche); Agua: Si (2 eur); WC:si</name>
+    <styleUrl>#style218</styleUrl>
+    <Point>
+      <coordinates>1.183949,44.824345,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[Area de autocaravanas] Zumaia  gratuito: si, agua: si, wc:no</name>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-2.248635,43.292858,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[PALENCIA][Area de ACs] Cervera de Pisuerga  gratis: si agua: si wc: no</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-4.499760,42.871468,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>[Santiago de Compostela] Area de Autocaravanas  Gratuito: si Agua: No WC: No</name>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-8.530283,42.897549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

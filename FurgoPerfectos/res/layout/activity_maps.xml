@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/FrameLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+
+        <com.google.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="a1505b1550914d0"
+            ads:loadAdOnCreate="true" >
+        </com.google.ads.AdView>
+    </FrameLayout>
+
+    <com.iskanbil.maps.EnhancedMapView
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/FrameLayout1"
+        android:layout_weight="1"
+        android:apiKey="0TVz3xy9cpvhlm8ODSueoKQecW9Fdb9Bs4pWD-w"
+        android:clickable="true"
+        android:enabled="true"
+        android:saveEnabled="true" >
+    </com.iskanbil.maps.EnhancedMapView>
+
+</RelativeLayout>
